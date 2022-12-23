@@ -17,27 +17,27 @@ Knowledge of Word, Excel
 
 Certificates
 
-Accounting course graduation certificate accountant certificate.pdf
+Accounting course [accountant certificate.pdf](https://github.com/PaulaNan/PaulaNan/files/10295009/accountant.certificate.pdf)
 
 Google IT Support Specialist [Google It Support certificate.pdf](https://github.com/PaulaNan/PaulaNan/files/10294999/Google.It.Support.certificate.pdf)
 
 Entrepreneurial skills course graduation certificate
 
-Human resources management course graduation certificate. hr certificate.pdf
+Human resources management course [hr certificate.pdf](https://github.com/PaulaNan/PaulaNan/files/10295010/hr.certificate.pdf)
 
 IT Courses
 
 QA utomation tester in python - Hello IT Factory 07.2022 - 11.2022
 
-Nan Paula - Testare Automata Diploma IT Factory.pdf
+[Uploading Nan Paula - Testare Automata Diploma IT Factory.pdf…]()
 
 Letter of recommendation
-
-NAN PAULA Scrisoare de recomandare.docx.pdf
+[NAN PAULA Scrisoare de recomandare.docx.pdf](https://github.com/PaulaNan/PaulaNan/files/10295025/NAN.PAULA.Scrisoare.de.recomandare.docx.pdf)
 
 Linked in www.linkedin.com/in/nan-paula
 
 Site https://sites.google.com/view/paula-nan/home
+[Uploading Nan Paula - Testare Automata Diploma IT Factory.pdf…]()
 
 Groups on facebook
 
