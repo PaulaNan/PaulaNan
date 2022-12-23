@@ -37,7 +37,6 @@ Letter of recommendation
 Linked in www.linkedin.com/in/nan-paula
 
 Site https://sites.google.com/view/paula-nan/home
-[Uploading Nan Paula - Testare Automata Diploma IT Factory.pdf…]()
 
 Groups on facebook
 
