@@ -28,8 +28,7 @@ Human resources management course [hr certificate.pdf](https://github.com/PaulaN
 IT Courses
 
 QA utomation tester in python - Hello IT Factory 07.2022 - 11.2022
-
-[Uploading Nan Paula - Testare Automata Diploma IT Factory.pdf…]()
+[Nan Paula - Testare Automata Diploma IT Factory.pdf](https://github.com/PaulaNan/PaulaNan/files/10295053/Nan.Paula.-.Testare.Automata.Diploma.IT.Factory.pdf)
 
 Letter of recommendation
 [NAN PAULA Scrisoare de recomandare.docx.pdf](https://github.com/PaulaNan/PaulaNan/files/10295025/NAN.PAULA.Scrisoare.de.recomandare.docx.pdf)
