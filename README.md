@@ -19,7 +19,7 @@ Certificates
 
 Accounting course graduation certificate accountant certificate.pdf
 
-Google IT Support Specialist certificate Google It Support certificate.pdf
+Google IT Support Specialist [Google It Support certificate.pdf](https://github.com/PaulaNan/PaulaNan/files/10294999/Google.It.Support.certificate.pdf)
 
 Entrepreneurial skills course graduation certificate
 
