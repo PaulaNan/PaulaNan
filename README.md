@@ -9,7 +9,7 @@ I am an organized person, attentive to details, confident in my abilities. I lik
 
 Tools - Pycharm Python, Postman, MySQL, Workbench Github
 
-Tech Skills - Knowledge of Python, Programming, Debugging Software testing automatio,n Basic Test Design Techniques
+Tech Skills - Knowledge of Python, Programming, Debugging Software testing automation, Basic Test Design Techniques, BDD, Agile
 
 Knowledge of Java
 
