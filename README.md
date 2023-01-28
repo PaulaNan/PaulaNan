@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Paula Nan
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Phyton, but I also like Java
-- 📫 How to reach me https://www.paulanan.ro/
-
+- 📫 How to reach me site https://www.paulanan.ro/
+            Linkedin www.linkedin.com/in/nan-paula
 
 
 I am an organized person, attentive to details, confident in my abilities. I like to be challenged to grow and develop my IT skills. I am a fast learner, I adapt easily to any situation and I am eager to put into practice all the knowledge I have acquired so far.
@@ -24,10 +24,6 @@ Knowledge of Java
 
 Knowledge of Microsoft Word, Excel, PowerPoint
 Knowledge of WordPress
-
-Linked in www.linkedin.com/in/nan-paula
-
-Site https://www.paula-nan.ro
 
 IT Courses
 
