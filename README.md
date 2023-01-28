@@ -5,19 +5,30 @@
 
 
 
-I am an organized person, attentive to details, confident in my abilities. I like to be challenged to grow and develop my IT skills. My biggest passion in life is using my technical knowledge to help people. I learn quickly, I adapt easily to any situation and I am eager to put into practice all the knowledge I have acquired so far.
+I am an organized person, attentive to details, confident in my abilities. I like to be challenged to grow and develop my IT skills. I am a fast learner, I adapt easily to any situation and I am eager to put into practice all the knowledge I have acquired so far.
 
-Tools - Pycharm Python, Postman, MySQL, Workbench Github
+Tools - 
+Pycharm Python
+MySQL
+Workbench Github
 
-Tech Skills - Knowledge of Python, Programming, Debugging Software testing automation, Basic Test Design Techniques, BDD
+Tech Skills - Knowledge of Python, 
+Programming, 
+Debugging Software testing automation, 
+Basic Test Design Techniques, 
+BDD,
+API,
+Postman.
 
 Knowledge of Java
 
-Knowledge of Word, Excel
+Knowledge of Microsoft Word, Excel, PowerPoint
+Knowledge of WordPress
 
 Linked in www.linkedin.com/in/nan-paula
 
 Site https://sites.google.com/view/paula-nan/home
+
 IT Courses
 
 QA utomation tester in python - Hello IT Factory 07.2022 - 11.2022
