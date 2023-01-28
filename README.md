@@ -27,7 +27,7 @@ Knowledge of WordPress
 
 Linked in www.linkedin.com/in/nan-paula
 
-Site https://sites.google.com/view/paula-nan/home
+Site https://www.paula-nan.ro
 
 IT Courses
 
